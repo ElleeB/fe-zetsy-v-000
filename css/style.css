@@ -58,3 +58,9 @@ footer {
 	font-size: 85%;
 	margin: 0 10px 0 0;
 }
+
+/* /// Pseudo Class Selectors - LINKS /// */
+
+a:hover {
+	border: rgb(156,172,166)
+}
