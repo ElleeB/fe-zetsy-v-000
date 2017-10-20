@@ -57,7 +57,7 @@ h2 {
 #press a.first {
 	float:left;
 	margin-left: 0%;
-}*/
+}
 
 /*float right
 #press a.last {
@@ -65,7 +65,7 @@ h2 {
 }*/
 
 footer {
-	position:absolute;
+	text-align: right;
 	font-size: 85%;
 	clear:both;
 }
