@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
-
+@font-face {
+	font-family: "Baskerville";
+	src:"../fonts/Baskervill.ttc";
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -41,3 +43,5 @@ h2 {
 #press img {
 	border: 3px rgb(204,204,204	) solid;
 }
+
+
