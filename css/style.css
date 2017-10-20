@@ -49,5 +49,6 @@ h2 {
 /* /// ALIGN /// */
 
 footer {
-	text-align: right
+	text-align: right;
+	font-size: 85%;
 }
