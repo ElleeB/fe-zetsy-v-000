@@ -16,6 +16,8 @@ body {
 
 .wrapper {
 	width: 960px;
+	position:relative;
+	height: 100%;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
@@ -51,11 +53,6 @@ h2 {
 #press a {
 	float:left;
 	width: 25%;
-}
-
-section#press {
-	position:relative;
-	height: 100%;
 }
 
 footer {
