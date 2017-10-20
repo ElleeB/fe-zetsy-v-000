@@ -50,6 +50,8 @@ h2 {
 
 #press a {
 	display: inline-block;
+	width: 23.5%;
+	margin-left: 2%;
 }
 
 /*float left*/
