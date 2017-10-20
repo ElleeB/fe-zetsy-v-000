@@ -54,7 +54,7 @@ h2 {
 }
 
 /*float left*/
-.first {
+#press a .first {
 	float:left;
 	margin-left: 0;
 }
