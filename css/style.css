@@ -49,6 +49,10 @@ h2 {
 
 /* /// ALIGN /// */
 
+section #press {
+	position:absolute;
+}
+
 #press a {
 	position:absolute;
 	display: inline-block;
