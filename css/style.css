@@ -53,19 +53,8 @@ h2 {
 	width: 25%;
 }
 
-/*float left
-#press a.first {
-	float:left;
-	margin-left: 0%;
-}
-
-/*float right
-#press a.last {
-	float:right;
-}*/
-
 footer {
-	text-align: right;
+	float:right;
 	font-size: 85%;
 	clear:both;
 }
