@@ -42,6 +42,10 @@ h2 {
 	border: 5px rgb(156,172,166) solid;
 }
 
+#press a:hover {
+	border-color: black;
+}
+
 #press img {
 	border: 3px rgb(204,204,204) solid;
 }
@@ -60,7 +64,3 @@ footer {
 }
 
 /* /// Pseudo Class Selectors - LINKS /// */
-
-#press a:hover {
-	border-color: black;
-}
