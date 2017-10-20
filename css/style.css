@@ -54,11 +54,14 @@ h2 {
 }
 
 /*float left*/
-a .first {
+.first {
 	float:left;
 }
 
 /*float right*/
+.first {
+	float:right;
+}
 
 footer {
 	text-align: right;
