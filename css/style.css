@@ -48,7 +48,10 @@ h2 {
 
 /* /// ALIGN /// */
 
-
+a {
+	display: inline-block;
+	width: 23.5%
+}
 
 /*float left*/
 .first {
