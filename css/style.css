@@ -54,5 +54,6 @@ footer {
 }
 
 #press a {
+	display: inline-block;
 	width: 25%;
 }
