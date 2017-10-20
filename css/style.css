@@ -16,7 +16,6 @@ body {
 
 .wrapper {
 	width: 960px;
-	position:relative;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
@@ -49,12 +48,7 @@ h2 {
 
 /* /// ALIGN /// */
 
-section #press {
-	position:absolute;
-}
-
 #press a {
-	position:absolute;
 	display: inline-block;
 	width: 20%;
 	margin-left: 2%;
