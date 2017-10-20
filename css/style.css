@@ -61,6 +61,7 @@ footer {
 
 /* /// Pseudo Class Selectors - LINKS /// */
 
-a:hover {
-	-webkit-link color: rgb(111	127	122);
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
 }
