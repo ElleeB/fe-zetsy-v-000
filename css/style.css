@@ -48,12 +48,19 @@ h2 {
 
 /* /// ALIGN /// */
 
-footer {
-	text-align: right;
-	font-size: 85%;
-}
-
 #press a {
 	display: inline-block;
 	width: 23.5%
+}
+
+/*float left*/
+a .first {
+	float:left;
+}
+
+/*float right*/
+
+footer {
+	text-align: right;
+	font-size: 85%;
 }
