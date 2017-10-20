@@ -45,3 +45,9 @@ h2 {
 #press img {
 	border: 3px rgb(204,204,204	) solid;
 }
+
+/* /// ALIGN /// */
+
+footer {
+	align: right
+}
