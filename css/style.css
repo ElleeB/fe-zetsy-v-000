@@ -62,5 +62,5 @@ footer {
 /* /// Pseudo Class Selectors - LINKS /// */
 
 a img:hover {
-	border-color: rgb(156,172,166);
+	border-color: black;
 }
