@@ -7,7 +7,8 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
+	color: rgb(90,85,86);
 }
 
 .wrapper {
@@ -17,4 +18,26 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+/* /// HEADINGS /// */
+
+h1 {
+	font-family: "Baskerville", serif;
+	font-size: 500%;
+	color: rgb(156,172,166);
+	/*line-height: 20px*/
+}
+
+h2 {
+	font-size: 200%;
+	color: rgb(111,127,122);
+}
+
+/* /// BORDERS /// */
+
+#featured img {
+	border: 5px rgb(156,172,166) solid;
+}
+
+#press img {
+	border: 3px rgb(204,204,204	) solid;
+}
