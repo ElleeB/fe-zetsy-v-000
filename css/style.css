@@ -56,7 +56,7 @@ h2 {
 
 footer {
 	display: inline;
-
+	position:absolute(20px)
 	font-size: 85%;
 	clear:both;
 }
