@@ -48,11 +48,11 @@ h2 {
 
 /* /// ALIGN /// */
 
-#press a {
+/*#press a {
 	display: inline-block;
 	width: 20%;
 	margin-left: 2%;
-}
+}*/
 
 /*float left*/
 #press a.first {
