@@ -65,7 +65,7 @@ h2 {
 }*/
 
 footer {
-	text-align: right;
+	position:absolute;
 	font-size: 85%;
 	clear:both;
 }
