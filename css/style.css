@@ -48,7 +48,7 @@ h2 {
 
 /* /// ALIGN /// */
 
-#press a {
+#press {
 	display: inline-block;
 	width: 23.5%;
 	margin-left: 2%;
@@ -57,7 +57,7 @@ h2 {
 /*float left*/
 .first {
 	float:left;
-	margin-left: 0;	
+	margin-left: 0;
 }
 
 /*float right*/
